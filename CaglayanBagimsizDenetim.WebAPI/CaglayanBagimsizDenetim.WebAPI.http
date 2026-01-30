@@ -1,0 +1,6 @@
+@CaglayanBagimsizDenetim.WebAPI_HostAddress = http://localhost:5087
+
+GET {{CaglayanBagimsizDenetim.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
